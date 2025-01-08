@@ -1,0 +1,16 @@
+
+Name = fre
+Age 45
+Sallary6482
+Working Position
+head
+Name = hfjdu
+Age 65
+Sallary8954
+Working Position
+worker
+Name = dfw
+Age 36
+Sallary7894
+Working Position
+peos
